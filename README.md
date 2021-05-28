@@ -5,10 +5,10 @@ The repository with the information about the session about patching the OpenJDK
 
 ## During the event
 
-During the virtual event, i will be available on Zoom at the address that you
-can find in the slack of hack-commit-push, channel #proj-openjdk
+During the virtual event, i will be available on the conference session
+and on the slack of hack-commit-push, channel #proj-openjdk
 
-Don't hesitate to join, say hello, share your screen if necessary, etc
+Don't hesitate to join, say hello, ask questions, provide answers, etc
 
 # So you want to patch the source of the JDK :)
 
