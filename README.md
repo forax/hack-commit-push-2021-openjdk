@@ -10,6 +10,10 @@ and on the slack of hack-commit-push, channel #proj-openjdk
 
 Don't hesitate to join, say hello, ask questions, provide answers, etc
 
+BTW, if you want to know why something is done that way in Java, you can also ask,
+i'm contributing since Java is opensource (15 years ago now), so i may know
+why and be able to explain it.
+
 # So you want to patch the source of the JDK :)
 
 The source of the JDK are stored on Github, the main repository is at
