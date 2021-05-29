@@ -1,5 +1,6 @@
 # hack-commit-push-2021-openjdk
-The repository with the information about the session about patching the OpenJDK at hack-commit-push 2021
+The repository with the information about the session about patching
+the OpenJDK (Java reference implementation) at hack-commit-push 2021
 
   https://hack-commit-pu.sh/
 
